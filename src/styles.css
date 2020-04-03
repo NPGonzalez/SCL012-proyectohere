@@ -30,13 +30,13 @@ body {
     background-color: #fff;
     border-radius: 15px;
     width: 480px;
-    height: 350px;
+    height: 100px;
 }
 
 #texts {
     margin-left: 23px;
     width: 350px;
-    height: 300px;
+    height: 200px;
     border-color: black;
     margin-bottom: 10px;
     padding-top: 100px;
@@ -44,10 +44,10 @@ body {
 
 #mapContainer {
     margin-left: 23px;
-    padding-top: 20px;
+    /* padding-top: 20px; */
     padding-left: 50px;
     width: 80%;
-    height: 340px;
+    height: 300px;
     visibility: hidden;
     border-color: black;
     margin-bottom: 10px;
